@@ -81,6 +81,8 @@ This module is a very work-in-progress system designed to bring peer-to-peer pla
 
 ## Module gcs-for-feral
 This module is a system designed to bring group chats to Fer.al via chat commands, **note: it is presently very buggy.**
+## Module appmenbot-for-feral
+Этот модуль является добавлением чат-бота в игру Fer.al, это Appmenbot, который является подкопиркой чат-бота Banchobot(https://osu.ppy.sh/wiki/ru/BanchoBot) с игры osu!(https://osu.ppy.sh/). Обратите внимание, что сам бот может заставить игру лагать.
 
 <br/>
 
